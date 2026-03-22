@@ -32,7 +32,7 @@
 
 ---
 
-> [!PROJECTS]
+> [!IMPORTANT]
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 ---
 </div>
 
-##  GitHub Stats
+> [!NOTE]
 
 <div align="center">
 
