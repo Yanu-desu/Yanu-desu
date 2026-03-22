@@ -33,11 +33,11 @@
 ---
 
 > [!IMPORTANT]
-> The Highlights
+> The Highlights of my *questionable* projects
 
 <div align="center">
 
-> *The lab is still empty but it will fill up.*
+ *The lab is still empty but it will fill up.*
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -59,6 +59,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yanu-desu&theme=radical&hide_border=true&background=0D0D0D&ring=9B59B6&fire=FF6B6B&currStreakLabel=FFFFFF)
 
+> I need to know..
 </div>
 
 ---
