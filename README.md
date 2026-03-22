@@ -1,6 +1,6 @@
 <div align="center">
   
-# < Yanu-desu >
+# ```< Yanu-desu >```
 
 **`Software Dev • Game Builder • Code Learner`**
 
