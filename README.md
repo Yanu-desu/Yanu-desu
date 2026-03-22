@@ -1,3 +1,4 @@
+<div align="center">
 # `< Yanu-desu >`
 
 **`Software Dev • Game Builder • Code Learner`**
