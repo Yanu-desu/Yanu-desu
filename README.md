@@ -53,9 +53,9 @@ const dev = {
 |  **Nadia** | A short RPG capstone game | `Javascript` `RPGMaker` |
 
 
-</div>
----
 
+---
+</div>
 
 ##  GitHub Stats
 
