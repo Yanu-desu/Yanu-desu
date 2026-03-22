@@ -12,7 +12,7 @@
 
 ---
 
-## > [!IMPORTANT]
+> [!IMPORTANT]
 > **Languages:** C++, Java, JavaScript \
 > **Frameworks:** RPGMaker \
 > **Database:** MySQL, SQLite \
