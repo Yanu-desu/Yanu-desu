@@ -15,21 +15,21 @@
 > [!IMPORTANT]
 > **Languages:** C++, Java, JavaScript, HTML, PHP \
 > **Database:** MySQL, SQLite \
-> **Tools:** Git, Linux, RPGMaker MV \
+> **Tools:** Git, Linux, RPGMaker MV 
 
-> ## Currently Learning \
+> ## Currently Learning 
 
-- Game systems design \
-- RPG Maker MV scripting \
-- Java backend fundamentals \
-- Linux development workflows \
+- Game systems design 
+- RPG Maker MV scripting 
+- Java backend fundamentals 
+- Linux development workflows 
 
-## Interests \
+> ## Interests 
 
-- RPG mechanics \
-- Game AI systems \
-- Narrative-driven games \
-- Experimental battle systems \
+- RPG mechanics 
+- Game AI systems 
+- Narrative-driven games 
+- Experimental battle systems 
 
 <div align="center">
 
