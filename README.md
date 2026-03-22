@@ -17,7 +17,7 @@
 > **Database:** MySQL, SQLite \
 > **Tools:** Git, Linux, RPGMaker MV \
 
-## Currently Learning \
+> ## Currently Learning \
 
 - Game systems design \
 - RPG Maker MV scripting \
