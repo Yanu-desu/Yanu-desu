@@ -84,7 +84,7 @@ More experiments coming soon.*
 </div>
 
 >[!WARNING]
-> The Dev is building, having break-downs, and improving one system at a time.
+> The Dev is building, having breakdowns, and improving one system at a time.
 ---
 
 <div align="center">
