@@ -59,7 +59,7 @@ More experiments coming soon.*
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|-------|
-|  **Nadia** | A short RPG capstone game | `Javascript` `RPGMaker` | WIP |
+|  **Nadia** | RPG game featuring a scan-based enemy identification system where players analyze clues to reveal enemy types and unlock effective combat strategies | `Javascript` `RPGMaker` | WIP |
 
 
 
@@ -81,7 +81,7 @@ More experiments coming soon.*
 </div>
 
 >[!WARNING]
-> I am still a novice, slowly learning my way into the fray
+> Building, breaking-dance(down), and improving one system at a time
 ---
 
 <div align="center">
