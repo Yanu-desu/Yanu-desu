@@ -1,6 +1,6 @@
 <div align="center">
   
-# ```< Yanu-desu >```
+# ```< John Michael Deliz >```
 
 **`Software Dev • Game Builder • Code Learner`**
 
