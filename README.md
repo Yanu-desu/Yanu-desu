@@ -32,7 +32,7 @@
 
 ---
 
-[!PROJECTS]
+> [!PROJECTS]
 
 <div align="center">
 
