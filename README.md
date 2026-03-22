@@ -13,8 +13,7 @@
 ---
 
 > [!IMPORTANT]
-> **Languages:** C++, Java, JavaScript \
-> **Frameworks:** RPGMaker \
+> **Languages:** C++, Java, JavaScript, HTML, PHP \
 > **Database:** MySQL, SQLite \
 > **Tools:** Git, Linux 
 
@@ -66,6 +65,20 @@
 </div>
 
 ---
+>[!WARNING]
+> I am still a novice, slowly learning my way into the fray
+---
+
+<div align="center">
+
+*"Just get the job done, then you can slack off."*
+
+**Open to collabs, game jams, and chaos.**
+
+</div>
+
+
+---
 
 ##  Find Me
 
@@ -76,15 +89,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-michael-deliz-71869936a/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/john.michael.deliz.2024)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dfmwd_/?hl=en)
-
-</div>
-
----
-
-<div align="center">
-
-*"Just get the job done, then you can slack off."*
-
-**Open to collabs, game jams, and chaos.**
 
 </div>
