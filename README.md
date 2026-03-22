@@ -21,7 +21,7 @@
 
 ---
 
-## 🌑 Who Am I?
+##  Who Am I?
 
 ```js
 const dev = {
@@ -36,7 +36,7 @@ const dev = {
 
 ---
 
-## ⚔️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -50,7 +50,7 @@ const dev = {
 
 ---
 
-## 🎮 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -58,12 +58,12 @@ const dev = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🚀 **Nadia** | A short RPG capstone game | `Javascript` `RPGMaker` |
+|  **Nadia** | A short RPG capstone game | `Javascript` `RPGMaker` |
 
 ---
 </div>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -77,7 +77,7 @@ const dev = {
 
 ---
 
-## 🌐 Find Me
+##  Find Me
 
 <div align="center">
 
@@ -93,6 +93,6 @@ const dev = {
 
 *"Just get the job done, then you can slack off."*
 
-⚡ **Open to collabs, game jams, and chaos.** ⚡
+ **Open to collabs, game jams, and chaos.** 
 
 </div>
