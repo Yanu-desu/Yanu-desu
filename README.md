@@ -4,7 +4,7 @@
 
 **`Software Dev • Game Builder • Code Learner`**
 
-*"Just here to make what I think is great."*
+*"Game systems, weird mechanics, and whatever I feel like building next."*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Yanu-desu&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Yanu-desu)
 
@@ -15,8 +15,21 @@
 > [!IMPORTANT]
 > **Languages:** C++, Java, JavaScript, HTML, PHP \
 > **Database:** MySQL, SQLite \
-> **Tools:** Git, Linux, RPGMaker MV
+> **Tools:** Git, Linux, RPGMaker MV \
 
+## Currently Learning \
+
+- Game systems design \
+- RPG Maker MV scripting \
+- Java backend fundamentals \
+- Linux development workflows \
+
+## Interests \
+
+- RPG mechanics \
+- Game AI systems \
+- Narrative-driven games \
+- Experimental battle systems \
 
 <div align="center">
 
@@ -41,7 +54,8 @@
 
 <div align="center">
 
- *The lab is still empty but it will fill up.*
+ *The lab is still cooking.
+More experiments coming soon.*
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|-------|
