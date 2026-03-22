@@ -49,7 +49,7 @@
 </div>
 
 > [!NOTE]
-> The Stats
+> The stats of my *excellent* performance
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yanu-desu&theme=radical&hide_border=true&background=0D0D0D&ring=9B59B6&fire=FF6B6B&currStreakLabel=FFFFFF)
 
-> I need to know..
+
 </div>
 
 ---
