@@ -85,7 +85,7 @@
 
 *"Just get the job done, then you can slack off."*
 
+</div>
+
 > [!WARNING]
 > Will join your collabs, game jams, and chaos. 
-
-</div>
