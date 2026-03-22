@@ -12,22 +12,12 @@
 
 ---
 
-##  Who Am I?
+## > [!IMPORTANT]
+> **Languages:** C++, Java, JavaScript \
+> **Frameworks:** RPGMaker \
+> **Database:** MySQL, SQLite \
+> **Tools:** Git, Linux \
 
-```js
-const dev = {
-  name:     "Yanu-desu",
-  role:     ["Software Developer", "Game Dev", "Eternal Learner"],
-  languages: ["C++", "JavaScript", "Java"],
-  currentlyBuilding: "Something for my capstone",
-  funFact:  "I tend to tunnel-vision when I start coding.",
-  motto:    "Do it now."
-};
-```
-
----
-
-##  Tech Arsenal
 
 <div align="center">
 
