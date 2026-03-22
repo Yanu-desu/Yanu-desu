@@ -43,9 +43,9 @@
 
  *The lab is still empty but it will fill up.*
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-|  **Nadia** | A short RPG capstone game | `Javascript` `RPGMaker` |
+| Project | Description | Stack | Status |
+|--------|-------------|-------|-------|
+|  **Nadia** | A short RPG capstone game | `Javascript` `RPGMaker` | WIP |
 
 
 
