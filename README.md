@@ -33,7 +33,7 @@
 ---
 
 > [!IMPORTANT]
-> A
+> The Highlights
 
 <div align="center">
 
@@ -49,6 +49,7 @@
 </div>
 
 > [!NOTE]
+> The Stats
 
 <div align="center">
 
