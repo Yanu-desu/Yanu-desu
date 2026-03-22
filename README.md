@@ -24,8 +24,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![RPG Maker](https://img.shields.io/badge/RPG%20Maker-8B0000?style=for-the-badge&logoColor=white)
@@ -82,7 +84,7 @@ More experiments coming soon.*
 </div>
 
 >[!WARNING]
-> Building, breaking-dance(down), and improving one system at a time
+> The Dev is building, having break-downs, and improving one system at a time.
 ---
 
 <div align="center">
