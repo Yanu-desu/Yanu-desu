@@ -16,7 +16,7 @@
 > **Languages:** C++, Java, JavaScript \
 > **Frameworks:** RPGMaker \
 > **Database:** MySQL, SQLite \
-> **Tools:** Git, Linux \
+> **Tools:** Git, Linux 
 
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 ---
 
-##  Featured Projects
+[!PROJECTS]
 
 <div align="center">
 
