@@ -17,20 +17,6 @@
 > **Database:** MySQL, SQLite \
 > **Tools:** Git, Linux, RPGMaker MV 
 
-> ## Currently Learning 
-
-- Game systems design 
-- RPG Maker MV scripting 
-- Java backend fundamentals 
-- Linux development workflows 
-
-> ## Interests 
-
-- RPG mechanics 
-- Game AI systems 
-- Narrative-driven games 
-- Experimental battle systems 
-
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -46,6 +32,21 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+> ## Currently Learning 
+
+- Game systems design 
+- RPG Maker MV scripting 
+- Java backend fundamentals 
+- Linux development workflows 
+
+> ## Interests 
+
+- RPG mechanics 
+- Game AI systems 
+- Narrative-driven games 
+- Experimental battle systems 
+
 
 ---
 
