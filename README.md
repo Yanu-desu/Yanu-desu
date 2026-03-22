@@ -4,7 +4,7 @@
 
 **`Software Dev • Game Builder • Code Learner`**
 
-*"Game systems, weird mechanics, and whatever I feel like building next."*
+*"Builds game systems, weird mechanics, and whatever I feel like building next."*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Yanu-desu&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Yanu-desu)
 
