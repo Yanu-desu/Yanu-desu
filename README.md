@@ -33,7 +33,7 @@
 ---
 
 > [!IMPORTANT]
-> The Highlights of my *questionable* projects
+> The highlights of my *questionable* projects
 
 <div align="center">
 
