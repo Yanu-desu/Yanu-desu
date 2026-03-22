@@ -9,13 +9,13 @@
 ╚═════╝ ╚══════╝  ╚═══╝
 ```
 
-# `< YourUsername />`
+# `< Yanu-desu >`
 
 **`Software Dev • Game Builder • Code Learner`**
 
-*"Building worlds in code, one commit at a time."*
+*"Just here to make what I think is great."*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/YourUsername)
+[![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Yanu-desu)
 
 </div>
 
@@ -25,12 +25,12 @@
 
 ```js
 const dev = {
-  name:     "YourUsername",
+  name:     "Yanu-desu",
   role:     ["Software Developer", "Game Dev", "Eternal Learner"],
   languages: ["C++", "JavaScript", "Java"],
   currentlyBuilding: "Something that'll make you go 👀",
-  funFact:  "I debug at 2AM and somehow that's when it works",
-  motto:    "Ship it. Break it. Fix it. Repeat."
+  funFact:  "I tend to tunnel-vision when I start coding.",
+  motto:    "Do it now."
 };
 ```
 
@@ -52,27 +52,26 @@ const dev = {
 
 ## 🎮 Featured Projects
 
-> *The lab where the magic happens.*
+<div align="center">
+
+> *The lab is still empty nut it will fill up.*
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🚀 **[Project Name]** | Short hype description here | `C++` `OpenGL` |
-| 🎮 **[Game Project]** | A game that slaps | `JavaScript` |
-| 🔧 **[Tool/App]** | Built because I needed it | `Java` |
-
-*More in the repos tab. Go explore. I dare you.*
+| 🚀 **Nadia** | A short RPG capstone game | `Javascript` `RPGMaker` |
 
 ---
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)
+![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yanu-desu&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanu-desu&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&text_color=FFFFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical&hide_border=true&background=0D0D0D&ring=9B59B6&fire=FF6B6B&currStreakLabel=FFFFFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yanu-desu&theme=radical&hide_border=true&background=0D0D0D&ring=9B59B6&fire=FF6B6B&currStreakLabel=FFFFFF)
 
 </div>
 
@@ -82,9 +81,9 @@ const dev = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yanu-desu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Blakeonthedust)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-michael-deliz-71869936a/)
 
 </div>
 
@@ -92,7 +91,7 @@ const dev = {
 
 <div align="center">
 
-*"The quieter you become, the more you are able to hear the code."*
+*"Just get the job done, then you can slack off."*
 
 ⚡ **Open to collabs, game jams, and chaos.** ⚡
 
