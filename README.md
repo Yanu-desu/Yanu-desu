@@ -54,7 +54,7 @@ const dev = {
 
 <div align="center">
 
-> *The lab is still empty nut it will fill up.*
+> *The lab is still empty but it will fill up.*
 
 | Project | Description | Stack |
 |--------|-------------|-------|
