@@ -15,7 +15,7 @@
 > [!IMPORTANT]
 > **Languages:** C++, Java, JavaScript, HTML, PHP \
 > **Database:** MySQL, SQLite \
-> **Tools:** Git, Linux, RPGMaker MV 
+> **Tools:** Git, Linux, RPGMaker MV, Figma
 
 <div align="center">
 
@@ -32,6 +32,7 @@
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![RPG Maker](https://img.shields.io/badge/RPG%20Maker-8B0000?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
