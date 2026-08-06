@@ -63,9 +63,7 @@ More experiments coming soon.*
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|-------|
-|  **Torn War Call** | A discord-bot that pings whenever your enemy or ally is almost out of the hospital in war time.
-
- | `Javascript` | Published |
+|  **Torn War Call** | A discord-bot that pings whenever your enemy or ally is almost out of the hospital in war time. | `Javascript` | Published |
 
 
 
