@@ -63,7 +63,9 @@ More experiments coming soon.*
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|-------|
-|  **Nadia** | RPG game featuring a scan-based enemy identification system where players analyze clues to reveal enemy types and unlock effective combat strategies | `Javascript` `RPGMaker` | WIP |
+|  **Torn War Call** | A discord-bot that pings whenever your enemy or ally is almost out of the hospital in war time.
+
+ | `Javascript` | Published |
 
 
 
